@@ -1,6 +1,6 @@
 # Sketches
 
-![Sketch pdf](ux-sketch.pdf)
+![Sketch png](ux-sketch.png)
 Visualizes the following pages:
   - New user landing page
   - Main page
