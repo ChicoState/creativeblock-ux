@@ -1,14 +1,44 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
-# !!!Project Name!!!
+# Creative Block
 
 !!!Brief introduction to the project and the problem it is intended to solve!!!
 
 ## UX Team Members
 
-* **[!!!Person A name!!!](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
-* **[!!!Person B name!!!](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
-* **[!!!Person C name!!!](!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
+* **[Brandon Herrera](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
+* **[Nico Paganelli](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
+
+Executive summary 
+Our research and design focused on how creative block will adapt scheduling applications to the needs of a variety of creatives
+
+
+Through competitive analysis, we were able to pinpoint the issues similar apps had which we could change or improve upon:
+Cost: Scheduling apps often cost a lot of money
+Demographic: They are usually tailored towards big teams and corporate environments
+Design: There is typically a lot of bloat in regards to tools and buttons on screen
+Through heuristic evaluation, we evaluated our main competitor and found its strengths and weaknesses:
+Strengths:
+The aesthetics and design are clean and simple
+Design patterns closely match a real world schedule/ notepad
+The basic workflow makes good use of shortcuts/ gestures
+Weaknesses:
+The design is not clear to a novice user and forces lots of trial and error
+Using the information gathered from our research, we created personas and scenarios that addressed our users potential concerns:
+Low cost or free app to cater to the hobbyists and passion projects with limited funding
+
+
+Our sketches and diagrams follow designs which match these goals:
+Simplistic design that does not overcomplicate small/ personal projects
+Enough information onscreen to give even a first time user enough to hit the ground running
+
+
+Design Artifacts:
+
+
+Sketches and Diagrams:
+https://github.com/ChicoState/creativeblock-ux/tree/main/sketches
+Personas and Scenarios
+https://github.com/ChicoState/creativeblock-ux/blob/main/personas/README.md
+
 
 # User-Centered Design Artifacts
 
