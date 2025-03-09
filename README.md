@@ -1,12 +1,29 @@
 # Creative Block
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Creative block is a scheduling app which is tailored for creatives. It is meant to help small teams/ individual artists get their projects done by helping to manage organization and time management.
 
 ## UX Team Members
 
-* **[Brandon Henman](https://usabilityengineering.github.io/CS-Brandon)** - !!!List of Person A's primary contributions!!!
-* **[Nico Paganelli](https://usabilityengineering.github.io/ux-journal-the-real-brogrammer/)** - !!!List of Person B's primary contributions!!!
+* **[Brandon Henman](https://usabilityengineering.github.io/CS-Brandon)**
+  - Wrote the dedicated report page
+  -  Worked as a team to create design artifacts and research/ design
+  
+* **[Nico Paganelli](https://usabilityengineering.github.io/ux-journal-the-real-brogrammer/)**
+  - Wrote the main portfolio page
+  - Converted our documents to markdown to format on github
+  - Worked as a team to create design artifacts and research/ design
 
+
+
+
+# User-Centered Design Artifacts
+
+* [Personas and Scenarios](personas/)
+* [Sketches and Diagrams](sketches/)
+* [Wireframes](wireframes/)
+* [Prototype](#)
+
+# Phase I: Analyzing Users, Competitors, and Initial Designs
 ## Executive summary 
 
 Our research and design focused on how creative block will adapt scheduling applications to the needs of a variety of creatives
@@ -23,7 +40,7 @@ Through heuristic evaluation, we evaluated our main competitor and found its str
     - Design patterns closely match a real world schedule/ notepad
     - The basic workflow makes good use of shortcuts/ gestures
 - Weaknesses:
-    The design is **not clear to a novice user** and forces lots of trial and error
+    - The design is **not clear to a novice user** and forces lots of trial and error
   
 Using the information gathered from our research, we created personas and scenarios that addressed our users potential concerns:
 - **Low cost** or free app to cater to the hobbyists and passion projects with limited funding  
@@ -32,20 +49,8 @@ Using the information gathered from our research, we created personas and scenar
 Our sketches and diagrams follow designs which match these goals:  
 - Simplistic **design that does not overcomplicate** small/ personal projects
 - **Enough information onscreen** to give even a first time user enough to hit the ground running  
-
-
-# User-Centered Design Artifacts
-
-* [Personas and Scenarios](personas/)
-* [Sketches and Diagrams](sketches/)
-* [Wireframes](wireframes/)
-* [Prototype](#)
-
-# Phase I: Analyzing Users, Competitors, and Initial Designs
-
 **Executive Summary**
 
-!!!Put phase I Executive Summary here!!!
 
 [Full phase I report](phaseI/)
 
