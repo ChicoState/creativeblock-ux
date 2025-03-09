@@ -13,9 +13,10 @@ Our research and design focused on how creative block will adapt scheduling appl
 
 
 Through competitive analysis, we were able to pinpoint the issues similar apps had which we could change or improve upon:  
-  **Cost:** Scheduling apps often cost a lot of money
-  **Demographic:** They are usually tailored towards big teams and corporate environments
-  **Design:** There is typically a lot of bloat in regards to tools and buttons on screen
+- **Cost:** Scheduling apps often cost a lot of money
+- **Demographic:** They are usually tailored towards big teams and corporate environments
+- **Design:** There is typically a lot of bloat in regards to tools and buttons on screen
+  
 Through heuristic evaluation, we evaluated our main competitor and found its strengths and weaknesses:  
   Strengths:
     The aesthetics and design are **clean and simple**
