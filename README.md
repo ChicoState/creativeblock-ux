@@ -4,7 +4,7 @@
 
 ## UX Team Members
 
-* **[Brandon Herrera](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
+* **[Brandon Henman](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
 * **[Nico Paganelli](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
 
 Executive summary 
