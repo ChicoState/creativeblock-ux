@@ -4,7 +4,7 @@ Creative block is a scheduling app which is tailored for creatives. It is meant 
 
 ## UX Team Members
 
-* **[Brandon Henman](https://usabilityengineering.github.io/CS-Brandon)**
+* **[Brandon Henman](https://usabilityengineering.github.io/portfolio-CS-Brandon/)**
   - Wrote the dedicated report page
   -  Worked as a team to create design artifacts and research/ design
   
