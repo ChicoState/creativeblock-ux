@@ -6,11 +6,11 @@ Creative block is a scheduling app which is tailored for creatives. It is meant 
 
 * **[Brandon Henman](https://usabilityengineering.github.io/portfolio-CS-Brandon/)**
   - Wrote the dedicated report page
-  -  Worked as a team to create design artifacts and research/ design
+  - Worked as a team to create design artifacts and research/ design
   
 * **[Nico Paganelli](https://usabilityengineering.github.io/ux-journal-the-real-brogrammer/)**
   - Wrote the main portfolio page
-  - Converted our documents to markdown to format on github
+  - Converted our documents + design artifacts to markdown and moved to github
   - Worked as a team to create design artifacts and research/ design
 
 
@@ -42,14 +42,14 @@ Through heuristic evaluation, we evaluated our main competitor and found its str
 - Weaknesses:
     - The design is **not clear to a novice user** and forces lots of trial and error
   
-Using the information gathered from our research, we created personas and scenarios that addressed our users potential concerns:
-- **Low cost** or free app to cater to the hobbyists and passion projects with limited funding  
+Using the information gathered from our research, we created personas and scenarios then approached our design accordingly:
+- **Low cost** or free app to cater to the hobbyists and passion projects with limited funding
+- **Flexible use cases** for creatives of scattered disciplines
+- **Modifiable** deadlines and projects for people who can only work in occassional bursts of free time
 
-
-Our sketches and diagrams follow designs which match these goals:  
+Our sketches and diagrams follow designs which match our users needs thus far:  
 - Simplistic **design that does not overcomplicate** small/ personal projects
-- **Enough information onscreen** to give even a first time user enough to hit the ground running  
-**Executive Summary**
+- **Enough information onscreen** to give even a first time user/ tech novice enough to hit the ground running
 
 
 [Full phase I report](phaseI/)
