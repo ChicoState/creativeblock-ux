@@ -60,24 +60,21 @@ Our sketches and diagrams follow designs which match our users needs thus far:
 
 **Executive Summary**
 
-Our research and design focused on how creative block will adapt scheduling applications to the needs of a variety of creatives
+**Informal feedback allowed us to increase user satisfaction in the following areas:**
+- Including a calendar for important dates
+- Adding tabs for different ideas
+- Leveraging AI to assist in project ideation
 
 
-Informal feedback allowed us to increase user satisfaction in the following areas:
-Including a calendar for important dates
-Adding tabs for different ideas
-Leveraging AI to assist in project ideation
-
-
-The cognitive walkthrough did not provide us with much critique, which is a good sign, however the one note we got was:
+**The cognitive walkthrough did not provide us with much critique, which is a good sign, however the one note we got was:**<br>
 We were lacking in visibility of system status- not providing clear progress when user is adding steps to a project
 
 
-Our wireframes show the state of our app design with the following updates to reflect our findings during this sprint including:
-Adding a calendar on the homepage for important dates
-Integrating tabs in the homepage and project pages
-Adding AI autocomplete when writing/ editing projects
-Printing “saved at…” as user types so they know the app is updating
+**Our wireframes show the state of our app design with the following updates to reflect our findings during this sprint including:**
+- Adding a calendar on the homepage for important dates
+- Integrating tabs in the homepage and project pages
+- Adding AI autocomplete when writing/ editing projects
+- Printing “saved at…” as user types so they know the app is updating
 
 
 [Full phase II report](phaseII/)
