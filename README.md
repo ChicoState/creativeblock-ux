@@ -5,15 +5,15 @@ Creative block is a scheduling app which is tailored for creatives. It is meant 
 ## UX Team Members
 
 * **[Brandon Henman](https://usabilityengineering.github.io/portfolio-CS-Brandon/)**
-  - Wrote the dedicated report page for phase I and II
+  - Wrote the dedicated report page for phase I, II, and III
   - Worked as a team to create design artifacts and research/ design
-  - Created/ updated wireframes
+  - Created/ updated wireframes and prototype
   
 * **[Nico Paganelli](https://usabilityengineering.github.io/ux-journal-the-real-brogrammer/)**
-  - Wrote the main portfolio page for phase I and II
-  - Converted our documents + design artifacts to markdown and moved to github for phase I and II
+  - Wrote the main portfolio page for phase I, II, and III
+  - Converted our documents + design artifacts to markdown and moved to github for phase I, II, and III
   - Worked as a team to create design artifacts and research/ design
-  - Created/ updated wireframes
+  - Created/ updated wireframes and prototype
 
 
 
@@ -23,7 +23,7 @@ Creative block is a scheduling app which is tailored for creatives. It is meant 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](prototype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 ## Executive summary 
@@ -82,7 +82,11 @@ We were lacking in visibility of system status- not providing clear progress whe
 # Phase III: Prototypes and User Testing
 
 **Executive Summary**
+- CreativeBlock **prototype** creates a **high fidelity** model of the application
+- A **pilot test** collected data from **real users** and analyzed
+  - We collected both **quantitative** and **qualitative** data
+  - Participants found CreativeBlock accessible and visually pleasing, mainly due to its minimalistic approach and innovative priority system
+- CreativeBlock is generally liked by users, but they want the priority system and idea listings to reflect their **mental models a little better**
 
-!!!Put phase II Executive Summary here!!!
 
 [Full phase III report](phaseIII/)
