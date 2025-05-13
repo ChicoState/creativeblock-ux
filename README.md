@@ -86,7 +86,7 @@ We were lacking in visibility of system status- not providing clear progress whe
 - A **pilot test** collected data from **real users** and analyzed
   - We collected both **quantitative** and **qualitative** data
   - Participants found CreativeBlock accessible and visually pleasing, mainly due to its minimalistic approach and innovative priority system
-- CreativeBlock is generally liked by users, but they want the priority system and idea listings to reflect their **mental models a little better**
+- CreativeBlock is generally liked by users, but they want the priority system and idea listings to reflect their **mental models** a little better
 
 
 [Full phase III report](phaseIII/)
