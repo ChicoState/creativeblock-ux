@@ -25,8 +25,9 @@ The **quantitative** results showed that for Task 1, participants gave a mean (a
 
 
 Here is a stacked bar chart which visualizes the participants' ease of use ratings split among the 3 tasks:
-
-Out of eight participants, three reported they would likely use CreativeBlock in their real-world routines, reflecting moderate potential for adoption beyond the test environment.<br><br>
+<br>
+![Stacked bar chart](chart.png)<br>
+<br>Out of six participants, five reported they would likely use CreativeBlock in their real-world routines, showing strong potential for use beyond the test environment.<br><br>
 
 The qualitative feedback gathered during debrief interviews highlighted that participants appreciated the app’s minimalist and modern interface. They especially liked features like the “new project” button and the clear visual priority system. However, several users pointed out confusion about the clickable star priority feature, projects and expressed a desire for more flexibility, such as being able to set project priority during creation and being able to see all the due dates for each project, not just the one that is due soon.<br><br>
 Overall, both the quantitative (mean ratings and consistency) and qualitative insights suggest that CreativeBlock is well-received in terms of simplicity and design but would benefit from targeted usability improvements to better match user expectations and workflows.
